@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 Steps : suppose i have to go in second activity after clicking on button of 1st activity.
     1. add Button widget in .xml file.
        In attribute of Button1 Give onCLick and provide any name.here i am giving btn1.
-    2. In .java file create second activity app->new->activity->empty activity.
+    2. In com.example.package right click on it and create second activity app->new->activity->empty activity.
         Now create Intent to communicate between Activity1 to Activity2
         Intent intent = new Intent(this,Activity2.class); //here providing 2 parameters first is context and second is destination name.
         Toast.makeText(this, "This is Second Activity", Toast.LENGTH_SHORT).show();

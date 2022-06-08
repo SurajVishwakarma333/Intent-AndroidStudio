@@ -11,7 +11,8 @@
         android:theme="@style/Theme.Intent">
         <activity
             android:name=".Activity2"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/><!--here i added back button symbol-->
         <activity
             android:name=".MainActivity"
             android:exported="true">
