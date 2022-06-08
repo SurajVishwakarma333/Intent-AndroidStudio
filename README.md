@@ -1,6 +1,7 @@
 # Intent
 
-Intent used for communicating from 1 activity to any other activity. we can remember intent with the word intention.
+Intent used for communicating from 1 activity to any other activity. 
+We can remember intent with the word intention.
 
 Steps : suppose i have to go in second activity after clicking on button of 1st activity.
 
