@@ -73,3 +73,7 @@ after clicking on btn3 it will return me to main_activity.
 
 # Implicit Intents :− 
    • It going to connect with out side application such as call, mail, phone,see any website ..etc.
+   
+               Intent intent = new Intent(Intent.ACTION_VIEW);
+               intent.setData(Uri.parse("http://www.abhiandroid.com"));
+               startActivity(intent);
