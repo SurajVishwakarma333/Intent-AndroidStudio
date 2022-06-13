@@ -13,6 +13,8 @@ Intent are of two types: Explicit Intent and Implicit Intent
 
 # Implicit Intents :− 
    • It going to connect with out side application such as call, mail, phone,see any website ..etc.
+   
+![1_agunwd17ceIyG1mgFyC8hQ](https://user-images.githubusercontent.com/101108540/173342896-eb5ce8f3-8ade-4eb5-b170-a61c5f21ba3a.png)
 
 
 Steps : suppose i have to go in second activity after clicking on button of 1st activity.
