@@ -11,8 +11,7 @@ Intent are of two types: Explicit Intent and Implicit Intent
 # Explicit Intent :-
    • It going to connect the internal world of an application such as start activity or send data between two activities.
 
-# Implicit Intents :− 
-   • It going to connect with out side application such as call, mail, phone,see any website ..etc.
+
    
 ![1_agunwd17ceIyG1mgFyC8hQ](https://user-images.githubusercontent.com/101108540/173342896-eb5ce8f3-8ade-4eb5-b170-a61c5f21ba3a.png)
 
@@ -69,3 +68,8 @@ after clicking on btn3 it will return me to main_activity.
 
 
 ![WhatsApp Image 2022-04-29 at 5 13 06 PM (2)](https://user-images.githubusercontent.com/101108540/165938510-8c10f466-1b9b-45f7-961b-25280c3188ef.jpeg)
+
+
+
+# Implicit Intents :− 
+   • It going to connect with out side application such as call, mail, phone,see any website ..etc.
