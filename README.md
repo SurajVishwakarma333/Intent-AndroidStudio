@@ -3,6 +3,13 @@
 Intent used for communicating from 1 activity to any other activity and also from one application to another application.          
 We can remember intent with the word intention.
 
+# Types of Intents:
+Intent are of two types: Explicit Intent and Implicit Intent
+
+![1](https://user-images.githubusercontent.com/101108540/173340161-91b258c9-4744-4dfb-bbd0-04e512805b6e.jpg)
+
+
+
 Steps : suppose i have to go in second activity after clicking on button of 1st activity.
 
 1. add Button widget in .xml file.
