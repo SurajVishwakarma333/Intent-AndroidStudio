@@ -8,6 +8,9 @@ Intent are of two types: Implicit Intent  and Explicit Intent
 
 ![1](https://user-images.githubusercontent.com/101108540/173340161-91b258c9-4744-4dfb-bbd0-04e512805b6e.jpg)
 
+
+![1_agunwd17ceIyG1mgFyC8hQ](https://user-images.githubusercontent.com/101108540/173342896-eb5ce8f3-8ade-4eb5-b170-a61c5f21ba3a.png)
+
 # Implicit Intents :− 
    • It going to connect with out side application such as call, mail, phone,see any website ..etc.
    
@@ -17,10 +20,6 @@ Intent are of two types: Implicit Intent  and Explicit Intent
 
 # Explicit Intent :-
    • It going to connect the internal world of an application such as start activity or send data between two activities.
-
-
-   
-![1_agunwd17ceIyG1mgFyC8hQ](https://user-images.githubusercontent.com/101108540/173342896-eb5ce8f3-8ade-4eb5-b170-a61c5f21ba3a.png)
 
 
 Steps : suppose i have to go in second activity after clicking on button of 1st activity.
