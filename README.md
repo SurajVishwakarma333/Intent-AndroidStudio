@@ -4,9 +4,16 @@ Intent used for communicating from 1 activity to any other activity and also fro
 We can remember intent with the word intention.
 
 # Types of Intents:
-Intent are of two types: Explicit Intent and Implicit Intent
+Intent are of two types: Implicit Intent  and Explicit Intent
 
 ![1](https://user-images.githubusercontent.com/101108540/173340161-91b258c9-4744-4dfb-bbd0-04e512805b6e.jpg)
+
+# Implicit Intents :− 
+   • It going to connect with out side application such as call, mail, phone,see any website ..etc.
+   
+               Intent intent = new Intent(Intent.ACTION_VIEW);
+               intent.setData(Uri.parse("http://www.abhiandroid.com"));
+               startActivity(intent);
 
 # Explicit Intent :-
    • It going to connect the internal world of an application such as start activity or send data between two activities.
@@ -71,9 +78,4 @@ after clicking on btn3 it will return me to main_activity.
 
 
 
-# Implicit Intents :− 
-   • It going to connect with out side application such as call, mail, phone,see any website ..etc.
-   
-               Intent intent = new Intent(Intent.ACTION_VIEW);
-               intent.setData(Uri.parse("http://www.abhiandroid.com"));
-               startActivity(intent);
+
