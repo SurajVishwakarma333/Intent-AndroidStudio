@@ -15,7 +15,7 @@ Intent are of two types: Implicit Intent  and Explicit Intent
    • It going to connect with out side application such as call, mail, phone,see any website ..etc.
    
                Intent intent = new Intent(Intent.ACTION_VIEW);
-               intent.setData(Uri.parse("http://www.abhiandroid.com"));
+               intent.setData(Uri.parse("http://www.your_website_name.com"));
                startActivity(intent);
 
 # Explicit Intent :-
