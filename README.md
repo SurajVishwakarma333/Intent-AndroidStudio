@@ -4,7 +4,7 @@
 - We can remember intent with the word intention.
 
 # Types of Intents:
-Intent are of two types: Implicit Intent  and Explicit Intent
+> Intent are of two types: Implicit Intent  and Explicit Intent
 
 ![1](https://user-images.githubusercontent.com/101108540/173340161-91b258c9-4744-4dfb-bbd0-04e512805b6e.jpg)
 
