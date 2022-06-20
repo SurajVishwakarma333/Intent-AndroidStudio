@@ -1,7 +1,7 @@
 # Intent
 
-Intent used for communicating from 1 activity to any other activity and also from one application to another application.          
-We can remember intent with the word intention.
+- Intent used for communicating from 1 activity to any other activity and also from one application to another application.          
+- We can remember intent with the word intention.
 
 # Types of Intents:
 Intent are of two types: Implicit Intent  and Explicit Intent
